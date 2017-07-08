@@ -6,7 +6,7 @@ Creates the setting `new_file_syntax` to select the default syntax for each new 
 
 
 ___
-## Licence
+## License
 
 All files in this repository are released under GNU General Public License v3.0
 or the latest version available on http://www.gnu.org/licenses/gpl.html
