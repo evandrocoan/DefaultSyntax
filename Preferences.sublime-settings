@@ -1,0 +1,4 @@
+{
+    // The syntax used when you create new files
+    "new_file_syntax": "Packages/C++/C++.tmLanguage",
+}
